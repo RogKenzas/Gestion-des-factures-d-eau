@@ -1,0 +1,90 @@
+[
+    {
+        "facture_id": "7a649743-a492-41f1-a4ed-6a280296a5cb",
+        "client_id": "af6b1e65-66ff-43ad-8117-f32cf15d1a79",
+        "index_initial": 4000,
+        "index_final": 1200,
+        "montant": 0.0,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "47d8fce9-ede4-473e-ad8c-0b5c88cb1b92",
+        "client_id": "af6b1e65-66ff-43ad-8117-f32cf15d1a79",
+        "index_initial": 4000,
+        "index_final": 1200,
+        "montant": 0.0,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "402a395a-1c7b-4a74-945b-bb4e48684381",
+        "client_id": "af6b1e65-66ff-43ad-8117-f32cf15d1a79",
+        "index_initial": 12000,
+        "index_final": 1000,
+        "montant": 0.0,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "b5f51235-2a04-4e67-aca5-91d1efbebf2b",
+        "client_id": "af6b1e65-66ff-43ad-8117-f32cf15d1a79",
+        "index_initial": 600,
+        "index_final": 1200,
+        "montant": 750.0,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "042bb3af-ceb8-4d57-bffc-4f4ccb96bb09",
+        "client_id": "af6b1e65-66ff-43ad-8117-f32cf15d1a79",
+        "index_initial": 12000,
+        "index_final": 30902,
+        "montant": 23627.5,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "39745346-7bfd-46e3-b367-901e6dea40fc",
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "index_initial": 400,
+        "index_final": 1200,
+        "montant": 1000.0,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "eb7c7ec6-a88e-4411-bb83-5c26e23cb734",
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "index_initial": 100,
+        "index_final": 500,
+        "montant": 40000,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "d0c20a86-6a02-4a90-bb22-50ab1a1809a1",
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "index_initial": 3090,
+        "index_final": 1200,
+        "montant": 0,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "e8d21a48-fa69-4266-bec1-ddf38fbba946",
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "index_initial": 1200,
+        "index_final": 3900,
+        "montant": 270000,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "1ef26fb8-c335-4cda-a15d-bcfca21338a1",
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "index_initial": 1200,
+        "index_final": 3090,
+        "montant": 189000,
+        "statut": "impayée"
+    },
+    {
+        "facture_id": "9b72c5bb-ff89-4ec9-a9f9-337b07c70b43",
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "index_initial": 1200,
+        "index_final": 3090,
+        "montant": 189000,
+        "statut": "impayée"
+    }
+]

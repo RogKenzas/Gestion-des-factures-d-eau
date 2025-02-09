@@ -1,0 +1,14 @@
+[
+    {
+        "client_id": "af6b1e65-66ff-43ad-8117-f32cf15d1a79",
+        "nom": "Adrien",
+        "adresse": "Ngoa ",
+        "compteur": "345670"
+    },
+    {
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "nom": "Hallo",
+        "adresse": "Awae",
+        "compteur": "5890"
+    }
+]
