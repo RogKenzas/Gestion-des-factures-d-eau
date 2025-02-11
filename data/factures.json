@@ -86,5 +86,13 @@
         "index_final": 3090,
         "montant": 189000,
         "statut": "impayée"
+    },
+    {
+        "facture_id": "efd22737-f4da-438a-8453-525e988a1cc4",
+        "client_id": "75b7a7b5-5c0e-4099-af66-afc81bfff03a",
+        "index_initial": 1040,
+        "index_final": 2080,
+        "montant": 104000,
+        "statut": "impayée"
     }
 ]
